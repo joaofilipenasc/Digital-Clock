@@ -1,2 +1,2 @@
 # Digital-Clock
-Digital clock made as a assignment for Digital Systems course
+Relógio Digital feito para a disciplina de Sistemas Digitais do primeiro período de Análise e Desenvolvimento de Sistemas - IFRN.
